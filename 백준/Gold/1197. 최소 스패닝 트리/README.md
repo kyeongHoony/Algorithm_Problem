@@ -2,9 +2,12 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1197) 
 
+For this problem, I used Prim's Algorithm
+
 ### 성능 요약
 
 메모리: 4592 KB, 시간: 516 ms
+
 
 ### 분류
 
